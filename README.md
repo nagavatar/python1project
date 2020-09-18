@@ -1,2 +1,3 @@
 # python1project
-using functional programming not by oops
+a simple tic tac toe game or "O"/"X" game on a 3*3 board!!
+this project has been made using functional programming i.e. using functions not by oops
